@@ -33,6 +33,45 @@ activities = {
         "max_participants": 20,
         "participants": ["ella@mergington.edu", "logan@mergington.edu"]
     },
+    # --- Sports (new) ---
+    "Volleyball Team": {
+        "description": "Practice volleyball skills and compete in school tournaments",
+        "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:30 PM",
+        "max_participants": 14,
+        "participants": ["sarah@mergington.edu", "ben@mergington.edu"]
+    },
+    "Tennis Club": {
+        "description": "Learn and play tennis, participate in friendly matches",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 10,
+        "participants": ["lucy@mergington.edu", "matt@mergington.edu"]
+    },
+    # --- Artistic (new) ---
+    "Dance Club": {
+        "description": "Explore various dance styles and perform at school events",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["nina@mergington.edu", "leo@mergington.edu"]
+    },
+    "Creative Writing Club": {
+        "description": "Write stories, poems, and share your creativity with others",
+        "schedule": "Fridays, 3:30 PM - 4:30 PM",
+        "max_participants": 12,
+        "participants": ["ella@mergington.edu", "sam@mergington.edu"]
+    },
+    # --- Intellectual (new) ---
+    "Quiz Bowl": {
+        "description": "Compete in academic quiz competitions and test your knowledge",
+        "schedule": "Thursdays, 4:00 PM - 5:00 PM",
+        "max_participants": 8,
+        "participants": ["max@mergington.edu", "zoe@mergington.edu"]
+    },
+    "Book Club": {
+        "description": "Read and discuss books from various genres",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 15,
+        "participants": ["mia@mergington.edu", "oliver@mergington.edu"]
+    },
     "Photography Club": {
         "description": "Learn photography skills and work on creative projects",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
@@ -56,8 +95,8 @@ activities = {
         "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 18,
         "participants": ["aiden@mergington.edu", "chloe@mergington.edu"]
-    }
-"Chess Club": {
+    },
+    "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 12,
